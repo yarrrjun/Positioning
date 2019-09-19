@@ -1,0 +1,16 @@
+.fixed{
+    position: fixed;
+    padding: 60px;
+    background: gray;
+    top: 0;
+    left: 0;
+}
+
+.wrapper{
+    width: 30%;
+    margin: 100px 400px;
+}
+
+.absolute{
+
+}
